@@ -1,0 +1,13 @@
+Command:
+
+git branch
+git checkout nameofbranch
+git add <file name>
+git commit -m "message"
+ Merging 
+git checkout masterbranchname
+git merge secondbranchname
+type-> :wq
+git pull
+git push
+
