@@ -1,0 +1,8 @@
+Commands:
+
+git clone url
+git status
+git log
+git add url
+git commit -m "message"
+git push
