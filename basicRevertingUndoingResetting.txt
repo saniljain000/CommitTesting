@@ -1,0 +1,2 @@
+undoing uncommited change only 
+git checkout <filename>
