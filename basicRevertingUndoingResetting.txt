@@ -1,2 +1,6 @@
 undoing uncommited change only 
 git checkout <filename>
+
+
+undoing commited change only
+git revert commit id
