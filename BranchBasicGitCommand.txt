@@ -11,3 +11,6 @@ type-> :wq
 git pull
 git push
 
+to add branch 
+git push --set-upstream origin secondbranch
+
