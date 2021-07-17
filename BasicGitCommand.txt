@@ -6,3 +6,5 @@ git log
 git add url
 git commit -m "message"
 git push
+
+add more things it will work definitely
